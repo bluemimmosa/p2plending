@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: p2p-lending
+
+  profiles:
+    active: dev
